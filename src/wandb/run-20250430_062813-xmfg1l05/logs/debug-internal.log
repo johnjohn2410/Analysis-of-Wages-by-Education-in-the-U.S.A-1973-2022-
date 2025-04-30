@@ -1,0 +1,16 @@
+{"time":"2025-04-30T06:28:13.721627-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/Users/johnross/Analysis-of-Wages-by-Education-in-the-U.S.A-1973-2022-/src/wandb/run-20250430_062813-xmfg1l05/logs/debug-core.log"}
+{"time":"2025-04-30T06:28:14.011859-05:00","level":"INFO","msg":"created new stream","id":"xmfg1l05"}
+{"time":"2025-04-30T06:28:14.011907-05:00","level":"INFO","msg":"stream: started","id":"xmfg1l05"}
+{"time":"2025-04-30T06:28:14.011966-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"xmfg1l05"}
+{"time":"2025-04-30T06:28:14.012103-05:00","level":"INFO","msg":"handler: started","stream_id":"xmfg1l05"}
+{"time":"2025-04-30T06:28:14.012261-05:00","level":"INFO","msg":"sender: started","stream_id":"xmfg1l05"}
+{"time":"2025-04-30T06:28:14.25836-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-30T06:28:15.517054-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-30T06:28:15.517081-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-30T06:28:16.528388-05:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-xmfg1l05-RegressionMetrics","runtime_seconds":1.0139085}],"total_operations":1}}
+{"time":"2025-04-30T06:28:16.773845-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-30T06:28:16.966776-05:00","level":"INFO","msg":"stream: closing","id":"xmfg1l05"}
+{"time":"2025-04-30T06:28:16.966818-05:00","level":"INFO","msg":"handler: closed","stream_id":"xmfg1l05"}
+{"time":"2025-04-30T06:28:16.966847-05:00","level":"INFO","msg":"sender: closed","stream_id":"xmfg1l05"}
+{"time":"2025-04-30T06:28:16.966846-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xmfg1l05"}
+{"time":"2025-04-30T06:28:16.96724-05:00","level":"INFO","msg":"stream: closed","id":"xmfg1l05"}

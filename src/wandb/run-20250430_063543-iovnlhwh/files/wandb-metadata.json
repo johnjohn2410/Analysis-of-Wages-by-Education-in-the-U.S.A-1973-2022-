@@ -1,0 +1,44 @@
+{
+  "os": "macOS-15.3.2-arm64-arm-64bit",
+  "python": "CPython 3.12.5",
+  "startedAt": "2025-04-30T11:35:43.099561Z",
+  "program": "/Users/johnross/Analysis-of-Wages-by-Education-in-the-U.S.A-1973-2022-/src/main.py",
+  "codePath": "src/main.py",
+  "git": {
+    "remote": "https://github.com/johnjohn2410/Analysis-of-Wages-by-Education-in-the-U.S.A-1973-2022-.git",
+    "commit": "7fa99a1eeb5e6222df8d01ac253a613a41e675b2"
+  },
+  "email": "john.ross01@utrgv.edu",
+  "root": "/Users/johnross/Analysis-of-Wages-by-Education-in-the-U.S.A-1973-2022-/src",
+  "host": "Johns-MacBook-Pro.local",
+  "executable": "/usr/local/bin/python3.12",
+  "codePathLocal": "main.py",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "239771041792"
+    },
+    "/System/Volumes/Data": {
+      "total": "245107195904",
+      "used": "239771041792"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 8,
+    "memoryGb": 8,
+    "swapTotalBytes": "6442450944",
+    "ramTotalBytes": "8589934592"
+  }
+}

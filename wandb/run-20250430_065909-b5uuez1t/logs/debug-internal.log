@@ -1,0 +1,16 @@
+{"time":"2025-04-30T06:59:09.374607-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.10","symlink path":"/Users/johnross/Analysis-of-Wages-by-Education-in-the-U.S.A-1973-2022-/wandb/run-20250430_065909-b5uuez1t/logs/debug-core.log"}
+{"time":"2025-04-30T06:59:09.591212-05:00","level":"INFO","msg":"created new stream","id":"b5uuez1t"}
+{"time":"2025-04-30T06:59:09.591262-05:00","level":"INFO","msg":"stream: started","id":"b5uuez1t"}
+{"time":"2025-04-30T06:59:09.591293-05:00","level":"INFO","msg":"handler: started","stream_id":"b5uuez1t"}
+{"time":"2025-04-30T06:59:09.591313-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"b5uuez1t"}
+{"time":"2025-04-30T06:59:09.591561-05:00","level":"INFO","msg":"sender: started","stream_id":"b5uuez1t"}
+{"time":"2025-04-30T06:59:09.777347-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-30T06:59:10.764672-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-30T06:59:10.764696-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-30T06:59:11.196084-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-30T06:59:11.370823-05:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-30T06:59:11.377536-05:00","level":"INFO","msg":"stream: closing","id":"b5uuez1t"}
+{"time":"2025-04-30T06:59:11.37757-05:00","level":"INFO","msg":"handler: closed","stream_id":"b5uuez1t"}
+{"time":"2025-04-30T06:59:11.377689-05:00","level":"INFO","msg":"sender: closed","stream_id":"b5uuez1t"}
+{"time":"2025-04-30T06:59:11.377976-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"b5uuez1t"}
+{"time":"2025-04-30T06:59:11.378058-05:00","level":"INFO","msg":"stream: closed","id":"b5uuez1t"}

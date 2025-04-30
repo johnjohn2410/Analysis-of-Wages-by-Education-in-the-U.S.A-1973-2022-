@@ -1,0 +1,16 @@
+{
+  "os": "macOS-15.3.2-arm64-arm-64bit",
+  "python": "CPython 3.12.5",
+  "startedAt": "2025-04-30T11:56:50.562895Z",
+  "program": "/Users/johnross/Analysis-of-Wages-by-Education-in-the-U.S.A-1973-2022-/src/education_analysis.py",
+  "codePath": "src/education_analysis.py",
+  "git": {
+    "remote": "https://github.com/johnjohn2410/Analysis-of-Wages-by-Education-in-the-U.S.A-1973-2022-.git",
+    "commit": "7fa99a1eeb5e6222df8d01ac253a613a41e675b2"
+  },
+  "email": "john.ross01@utrgv.edu",
+  "root": "/Users/johnross/Analysis-of-Wages-by-Education-in-the-U.S.A-1973-2022-/src",
+  "host": "Johns-MacBook-Pro.local",
+  "executable": "/usr/local/bin/python3.12",
+  "codePathLocal": "education_analysis.py"
+}

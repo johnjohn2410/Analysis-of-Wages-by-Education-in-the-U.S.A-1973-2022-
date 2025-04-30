@@ -1,0 +1,10 @@
+/Users/johnross/Analysis-of-Wages-by-Education-in-the-U.S.A-1973-2022-/src/education_analysis.py:27: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=table_51, x='Education Level', y='Median Weekly Earnings ($)', palette='Blues_d')
+/Users/johnross/Analysis-of-Wages-by-Education-in-the-U.S.A-1973-2022-/src/education_analysis.py:37: FutureWarning:
+
+Passing `palette` without assigning `hue` is deprecated and will be removed in v0.14.0. Assign the `x` variable to `hue` and set `legend=False` for the same effect.
+
+  sns.barplot(data=table_51, x='Education Level', y='Unemployment Rate (%)', palette='Reds')
