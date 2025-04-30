@@ -1,9 +1,12 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import wandb
+wandb.init(project="wage-education-analysis", name="initial_run")
+
 
 # Load dataset
-df = pd.read_csv("wages_by_education.csv")
+df = pd.read_csv("../Datasets/wages_by_education.csv")
 
 # Reshape for main education levels (5 columns)
 edu_cols = ['less_than_hs', 'high_school', 'some_college', 'bachelors_degree', 'advanced_degree']
